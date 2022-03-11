@@ -1,0 +1,6 @@
+DESCRITIVO
+
+Leia o primeiro valor e armazene em n1; 
+Leia o segundo valor e armazene em n2;
+Multiplique n1 com n2 e armazene em resultado; 
+Mostre o resultado;
